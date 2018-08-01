@@ -9,7 +9,11 @@ body {
   width: 100vw;
   display: grid;
   grid-template: 
+<<<<<<< HEAD
   "auto / 1fr 1fr 1fr";
+=======
+  "1fr 1fr 1fr 1fr / 1fr 1fr 1fr";
+>>>>>>> cb134575658d4f30294c378ce758aef897b6d1b4
 
   /* your properties here */
 }
